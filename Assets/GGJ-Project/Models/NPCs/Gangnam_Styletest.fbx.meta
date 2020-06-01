@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: 166450ce9d0581b4ea5bb714959006c3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Geo_Accessories
+    100004: Geo_Arm_L
+    100006: Geo_Arm_R
+    100008: Geo_Base
+    100010: Geo_Beard_4
+    100012: Geo_Beards
+    100014: Geo_Body
+    100016: Geo_Eye
+    100018: Geo_Eyebrow_2
+    100020: Geo_Eyebrows
+    100022: Geo_Foot_L
+    100024: Geo_Foot_R
+    100026: Geo_Hairstyle_2
+    100028: Geo_Hairstyles
+    100030: Geo_Hand_L
+    100032: Geo_Hand_R
+    100034: Geo_Head
+    100036: Geo_Leg_L
+    100038: Geo_Leg_R
+    100040: Geo_Mouth_1
+    100042: Geo_Mouths
+    100044: Geo_Ring
+    400000: //RootNode
+    400002: Geo_Accessories
+    400004: Geo_Arm_L
+    400006: Geo_Arm_R
+    400008: Geo_Base
+    400010: Geo_Beard_4
+    400012: Geo_Beards
+    400014: Geo_Body
+    400016: Geo_Eye
+    400018: Geo_Eyebrow_2
+    400020: Geo_Eyebrows
+    400022: Geo_Foot_L
+    400024: Geo_Foot_R
+    400026: Geo_Hairstyle_2
+    400028: Geo_Hairstyles
+    400030: Geo_Hand_L
+    400032: Geo_Hand_R
+    400034: Geo_Head
+    400036: Geo_Leg_L
+    400038: Geo_Leg_R
+    400040: Geo_Mouth_1
+    400042: Geo_Mouths
+    400044: Geo_Ring
+    2100000: lambert3
+    2300000: Geo_Arm_L
+    2300002: Geo_Arm_R
+    2300004: Geo_Beard_4
+    2300006: Geo_Body
+    2300008: Geo_Eye
+    2300010: Geo_Eyebrow_2
+    2300012: Geo_Foot_L
+    2300014: Geo_Foot_R
+    2300016: Geo_Hairstyle_2
+    2300018: Geo_Hand_L
+    2300020: Geo_Hand_R
+    2300022: Geo_Head
+    2300024: Geo_Leg_L
+    2300026: Geo_Leg_R
+    2300028: Geo_Mouth_1
+    2300030: Geo_Ring
+    3300000: Geo_Arm_L
+    3300002: Geo_Arm_R
+    3300004: Geo_Beard_4
+    3300006: Geo_Body
+    3300008: Geo_Eye
+    3300010: Geo_Eyebrow_2
+    3300012: Geo_Foot_L
+    3300014: Geo_Foot_R
+    3300016: Geo_Hairstyle_2
+    3300018: Geo_Hand_L
+    3300020: Geo_Hand_R
+    3300022: Geo_Head
+    3300024: Geo_Leg_L
+    3300026: Geo_Leg_R
+    3300028: Geo_Mouth_1
+    3300030: Geo_Ring
+    4300000: Geo_Ring
+    4300002: Geo_Beard_4
+    4300004: Geo_Mouth_1
+    4300006: Geo_Hairstyle_2
+    4300008: Geo_Eyebrow_2
+    4300010: Geo_Body
+    4300012: Geo_Arm_R
+    4300014: Geo_Hand_R
+    4300016: Geo_Arm_L
+    4300018: Geo_Hand_L
+    4300020: Geo_Head
+    4300022: Geo_Eye
+    4300024: Geo_Leg_R
+    4300026: Geo_Foot_R
+    4300028: Geo_Leg_L
+    4300030: Geo_Foot_L
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

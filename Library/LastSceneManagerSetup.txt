@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GGJ-Project/Scenes/Mainstage.unity
+  isLoaded: 1
+  isActive: 1
